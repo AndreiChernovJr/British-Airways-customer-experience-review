@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project was undertaken as part of a virtual internship provided by Forage in collaboration with British Airways. The primary objectives of this project were to scrape and analyze customer reviews from the British Airways website. The analysis aimed to uncover insights using data analysis and Natural Language Processing (NLP) techniques.
+This project was undertaken as part of a virtual internship provided by Forage in collaboration with British Airways. The primary objectives of this project were to scrape and analyze customer reviews from the https://www.airlinequality.com website. The analysis aimed to uncover insights using data analysis and Natural Language Processing (NLP) techniques.
 
 ## Project Stack
 
